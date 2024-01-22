@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "file:///Users/tatianaoropel/Desktop/Class_Project_Folder/belly-button-challenge/StarterCode/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "name": "http://file:///Users/tatianaoropel/Desktop/Class_Project_Folder/belly-button-challenge/StarterCode/index.html",
+            "request": "launch",
+            "url": "http://file:///Users/tatianaoropel/Desktop/Class_Project_Folder/belly-button-challenge/StarterCode/index.html"
+        }
+    ]
+}
